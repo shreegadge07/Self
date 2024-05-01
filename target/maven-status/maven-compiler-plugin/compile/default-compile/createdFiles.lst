@@ -1,0 +1,6 @@
+com\example\spring_boot_jpa_example\CategoryRepository.class
+com\example\spring_boot_jpa_example\Product.class
+com\example\spring_boot_jpa_example\CategoryController.class
+com\example\spring_boot_jpa_example\ProductController.class
+com\example\spring_boot_jpa_example\Category.class
+com\example\spring_boot_jpa_example\ProductRepository.class
